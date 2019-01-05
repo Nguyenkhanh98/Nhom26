@@ -8,3 +8,4 @@ F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\obj\Debug\Project.Properti
 F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
 F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\obj\Debug\Project.exe
 F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\obj\Debug\Project.pdb
+F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\obj\Debug\Project.Form2.resources
