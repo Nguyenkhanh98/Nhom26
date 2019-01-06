@@ -1,4 +1,3 @@
-F:\2018-2019\LTUDQL1\Tuần 4\Project\Project\bin\Debug\Project.exe.config
 F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\bin\Debug\Project.exe.config
 F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\bin\Debug\Project.exe
 F:\2018-2019\LTUDQL1\Đồ án\Nhom26\Project\Project\bin\Debug\Project.pdb
